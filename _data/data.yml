@@ -1,19 +1,19 @@
-name: John Doe
+name: Eoghan Jennings
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: ej@h1energy.de
+  github: github.com/ecj
+  linkedin: linkedin.com/in/ecjenn
+  phone: +49 151 1788 1971
   gitlab: 
-  twitter: 
+  twitter: twitter.com/ecj
 
 languages:
   - idiom: English
-  - idiom: Russian
+  - idiom: German
   - idiom: French
 
 education:
