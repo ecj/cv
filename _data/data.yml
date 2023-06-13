@@ -11,17 +11,17 @@ contact:
   twitter: ecj
 
 languages:
-  - idiom: English
-  - idiom: German
+  - idiom: English, native speaker
+  - idiom: German, spoken & written fluency
 
 education:
-  - degree: BSc in Economics [2.2]
+  - degree: BSc (Hons) Economics [2.2]
     time: 1992-1995
     university: London School of Economics
     
   - degree: International Baccalaureate
     time: 1989-1991
-    university: St Clares Oxford
+    university: St Clares College
 
 skills:
   - category: Pipeline & CRM
@@ -32,10 +32,6 @@ skills:
     skill:
       - PowerPoint, Slides, 
       - Proposify, Qwilr, Pandadoc
-  - category: AI Assist
-    skill:
-      - LLM Prompt Expert
-      - Tome, Slides AI 
   - category: Financials/Offer Mgmt
     skill:
       - Excel, PowerBI
@@ -44,14 +40,18 @@ skills:
   - category: Frontend
     skill:
       - HTML Markdown
-      - Static Site Builds 
+      - Static Site Builds
+  - category: AI Assistance
+    skill:
+      - LLM Prompt Expert
+      - Tome, Slides AI 
 
 # Profile
 profile: |
   My diverse background in management, business development, and finance 
-  has equipped me with a unique skill set to drive growth, develop innovative solutions, 
-  and contribute to the success of organizations. I thrive in dynamic environments 
-  and enjoy collaborating with cross-functional teams to achieve strategic objectives.
+  has equipped me with a unique skill set to set targets, establish effective processes, 
+  develop innovative solutions, and make a postive impact on company value. I thrive in
+  dynamic environments and enjoy collaborating with others to drive top line growth.
 
 # Experience
 experience:
@@ -59,9 +59,10 @@ experience:
     time: 2023-Present
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
-      A local energy collective deliverying thermal energy to 350 homes in Ahnsbeck, Lower Saxony
+      A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
     technologies_used: | 
-      
+      Smart solutions
+  
   - role: VP Strategy, Business & Product Development
     time: 2023-present
     company: Quest Materials (Lower Saxony, Germany)
@@ -69,15 +70,15 @@ experience:
       Quest is designing the world’s first-of-a-kind, modular facility to recover Critical Raw Materials 
       from e-waste and scale its technology with int'l JV partners
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      State funding
 
   - role: Management Board
     time: 2019-2023
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
-      A local energy collective deliverying thermal energy to 350 homes in Ahnsbeck, Lower Saxony
+      A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Research project
   
   - role: VP Business Development 
     time: 2020-2022
@@ -86,7 +87,7 @@ experience:
      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Increased number of PROPOSALS 
   
   - role: VP Business Development & Strategic Product Development
     time: 2016-2020
@@ -94,16 +95,17 @@ experience:
     details: |
      Growth strategy consulting and venture development firm specializing in Smart Systems
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Established design sprints as a way to collaborate and build product
+      established process for PROPOSALS, terms of service etc.
   
-  - role: Founder, Videographer, Video Editor
+  - role: Founder, Video Editor, Social Marketing
     time: 2014-present
     company: Bourbon.fm (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      produced music vidoes with over 125,000 views on social channels
   
   - role: Co-Founder & Director
     time: 2012-2914
@@ -112,7 +114,7 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      selected and incubated 7 teams - one exit
   
   - role: Co-Founder & MD Dublin
     time: 2011-2014
@@ -121,42 +123,55 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      selected and incubated 10 teams - three exit
   
   - role: Managing Partner
     time: 2009-2010
     company: Parklane Capital (Hamburg, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      M&A advisory, capital raising, external CFO services for high-growth technology companies
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Advised the owners of Resorba on a potential acquisition and market entry in Ireland
+      Advised the founders of Amiando on their exit sale to XING AG
   
-  - role: Chief Financial Officer, VP Finance, Legal & HR
+  - role: Chief Financial Officer, and prior VP Finance, Legal & HR
     time: 2004-2009
     company: New Work SE (frmly XING AG, Hamburg, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Consumer internet services, listed on Frankfurt stock exchange as FRA:O1BC
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Provided overall financial leadership for the first 9 quarters of XINGs existence as a listed company enabling
+      the XING share to outperform all indices over the period and become a candidate for the tecDAX
+      Led the preparation of quarterly and annual financial statements (HGB and IFRS) including the consolidation
+      of 10 separate international entities (Spain, Turkey, Switzerland, China, USA, India) into group accounts
+      Setup and led controlling function, established monthly management & board reporting, annual / quarterly
+      budget process for all BU’s and key functions and three-year strategic plan
+      Co-led IPO team (O1BC was best performing IPO on Frankfurt Stock Exchange throughout 2007 and 2008)
+      as well as setup and led the Investor Relations (IR) function
+      Setup the IR function and effective investor communications including regular conference calls, investor
+      roadshows in US and throughout Europe, and quarterly reporting including three annual reports, seven
+      interim reports and three AGMs; Increased analyst coverage from two at IPO to eight by April 2009
+      Initiated and implemented a redesign of both A/P as well as A/R processes which resulted in increased
+      accuracy, automation and transparency
+      Played key role in XINGs 5 acquisitions including valuation, negotiation, DD and purchase price allocation
+      Setup and led the Business Intelligence function to measure and monitor customer lifecycle statistics and key
+      customer processes such as invitation, conversion and retention
 
   - role: Owner
     time: 2003-2005
     company: Management Consultant
     details: |
+      M&A advisory / capital raising / external CFO services for high-growth technology companies
+    technologies_used: | 
       Parklane Capital GmbH- Sell-side advisory mandate (Navigon to General Atlantic)
       4G Systems GmbH & Co KG – business planning and capital increase
       Open Business Club GmbH – business planning, capital increases
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
       
   - role: Associate, Mergers & Acquisitions
     time: 2000-2003
     company: Lincoln Intertional (frmly Peters Associates, Frankfurt, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Boutique Investment Bank
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
@@ -164,8 +179,7 @@ experience:
     time: 1999-2000
     company: PricewaterhouseCoopers (Frankfurt, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      International Financial Services Group
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
@@ -173,7 +187,6 @@ experience:
     time: 1996-1997
     company: Credit Suisse First Boston (London, UK)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      International Investment Bank
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
