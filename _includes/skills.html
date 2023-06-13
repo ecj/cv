@@ -1,8 +1,8 @@
 {% assign skills = site.data.data.skills %}
 {% if skills %}
-<section class="skill">
+<section class="skills">
     {% for sks in skills %}
-        <div class="title">{{sks.category}} skills</div>
+        <div class="title">{{sks.category}} skill</div>
         {% for sk in sks.skill%}
             <div class="skill">{{sk}}</div>
         {% endfor %}
