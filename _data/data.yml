@@ -50,44 +50,5 @@ profile: |
   fugiat nulla pariatur.
 
 # Experience
-experience:
-  - role: Member, Supervisory Board
-    time: 07/2023 - present
-    company: Energiegenossenschaft Ahnsbeck
-    details: |
-    Local energy collective deliverying 10MW of thermal energy to 350 homes in Lower Saxony
-    Biomass (4 x 500KW Furnaces) & Biogas connector, 16 kilometer hydraulic network
-    technologies_used: | 
-    technology
-    
-  - role: Member, Management Board
-    time: 08/2019 - 06/2023
-    company: Energiegenossenschaft Ahnsbeck
-    details: |
-    technologies_used: | 
-    technology
-    
-  - role: VP Product & Business Development
-    time: 01/2023 - present
-    company: Quest Elements
-    details: |
-    Designing the world’s first-of-a-kind, modular facility to recover Critical Raw Materials
-    from e-waste and scale its technology in conjunction with international JV partners
-    technologies_used: | 
-    technology
-    
-  - role: VP Business Development
-    time: 10/2020 - 12/2022
-    company: Harbor Research
-    details: |
-    Growth strategy consulting and venture development firm specializing in Smart Systems.
-    technologies_used: | 
-    technology
-    
-  - role: VP Business Development & Strategist Product Development
-    time: 109/2016 - 09/2020
-    company: Fathym, Inc.
-    details: |
-    Growth strategy consulting and venture development firm specializing in Smart Systems.
-    technologies_used: | 
-    technology
+
+   
