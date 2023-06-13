@@ -24,18 +24,23 @@ education:
     university: St Clares Oxford
 
 skills:
-  - category: CRM
+  - category: Pipeline & CRM
     skill: 
       - Hubspot
       - Salesforce
-  - category: Presentation
+  - category: Proposals
     skill:
-      - PowerPoint
-      - Typescript
+      - PowerPoint, Slides, 
+      - Proposify, Qwilr, Pandadoc
   - category: AI Assist
     skill:
       - LLM Prompt Expert
       - Tome, Slides AI 
+  - category: Financials/Offer Mgmt
+    skill:
+      - Excel, PowerBI
+      - Airtable, Tableau
+      - Microsoft Dynamics NAV 
   - category: Frontend
     skill:
       - HTML Markdown
@@ -77,7 +82,7 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Role
+  - role: VP Business Development 
     time: 2020-2022
     company: Harbor Research (Colorado, USA)
     details: |
@@ -86,7 +91,7 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-  - role: Role
+  - role: VP Business Development & Strategic Product Development
     time: 2016-2020
     company: Fathym, Inc. (Colorado, USA)
     details: |
@@ -95,7 +100,7 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Role
+  - role: Founder, Videographer, Video Editor
     time: 2014-present
     company: Bourbon.fm (Dublin, Ireland)
     details: |
@@ -104,7 +109,7 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-  - role: Role
+  - role: Co-Founder & Director
     time: 2012-2914
     company: HealthXL (Dublin, Ireland)
     details: |
@@ -113,16 +118,16 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Role
+  - role: Co-Founder & MD Dublin
     time: 2011-2014
-    company: Startupbootcamp (Dublin, Ireland)
+    company: Startupbootcamp Dublin (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-  - role: Role
+  - role: Managing Partner
     time: 2009-2010
     company: Parklane Capital (Hamburg, Germany)
     details: |
@@ -131,7 +136,7 @@ experience:
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Role
+  - role: Chief Financial Officer, VP Finance, Legal & HR
     time: 2004-2009
     company: New Work SE (frmly XING AG, Hamburg, Germany)
     details: |
