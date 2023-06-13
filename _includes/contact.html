@@ -2,14 +2,6 @@
 {% if contact %}
 <section class="contact">
     <div class="title">Contact</div>
-    {% if contact.address %}
-        <div class="contact-item">
-            <i data-feather="address"></i>
-            <a href="#">
-                {{contact.address}}
-            </a>
-        </div>
-    {% endif %}
     
     {% if contact.email %}
         <div class="contact-item">
@@ -52,6 +44,15 @@
             <i data-feather="github"></i>
             <a href="https://github.com/{{contact.github}}">
                 {{contact.github}}
+            </a>
+        </div>
+    {% endif %}
+    
+    {% if contact.address %}
+        <div class="contact-item">
+            <i data-feather="address"></i>
+            <a href="#">
+                {{contact.address}}
             </a>
         </div>
     {% endif %}
