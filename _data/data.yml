@@ -44,40 +44,27 @@ profile: |
 
 # Experience
 experience:
-- role: Member, Supervisory Board
-    time: 07/2023 - present
-    company: Energiegenossenschaft Ahnsbeck
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-      Lorem ipsum dolor sit amet.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
+      Go, Angular, Typescript, C++
   
-  - role: Member, Management Board
-    time: 08/2019 - 06/2023
-    company: Energiegenossenschaft Ahnsbeck
-    details: |
-      Lorem ipsum dolor sit amet.
-    technologies_used: | 
-  
-  - role: VP Product & Business Development
-    time: 01/2023 - present
-    company: Quest Elements
-    details: |
-      Lorem ipsum dolor sit amet.
-    technologies_used: | 
-    
-  - role: VP Business Development
-    time: 10/2020 - 12/2022
+  - role: Researcher
+    time: 2016-2020
     company: Microsoft
     details: |
-      Lorem ipsum dolor sit amet.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
- - role: VP Business Development
-    time: 09/2106 - 09/2020
-    company: Fathym, Inc.
-    details: |
-      Lorem ipsum dolor sit amet.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
