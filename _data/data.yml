@@ -51,7 +51,6 @@ profile: |
 
 # Experience
 experience:
-  
   - role: Supervisory Board
     time: 2023-Present
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
@@ -169,7 +168,7 @@ experience:
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-   - role: Financial Analyst
+  - role: Financial Analyst
     time: 1996-1997
     company: Credit Suisse First Boston (London, UK)
     details: |
@@ -177,5 +176,3 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
-
-   
