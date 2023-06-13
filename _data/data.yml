@@ -57,13 +57,21 @@ profile: |
 
 # Experience
 experience:
-  - role: Supervisory Board
-    time: 2023-Present
+  - role: Supervisory Board, Management Board
+    time: 2023-Present; 2019-2023
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
       A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
     technologies_used: | 
       ● Smart solutions
+  
+  - role: Management Board
+    time: 2019-2023
+    company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
+    details: |
+      A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
+    technologies_used: | 
+      ● Research project
   
   - role: VP Strategy, Business & Product Development
     time: 2023-present
@@ -74,14 +82,6 @@ experience:
     technologies_used: | 
       ● State funding
 
-  - role: Management Board
-    time: 2019-2023
-    company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
-    details: |
-      A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
-    technologies_used: | 
-      ● Research project
-  
   - role: VP Business Development 
     time: 2020-2022
     company: Harbor Research (Colorado, USA)
