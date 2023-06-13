@@ -4,7 +4,7 @@ fork: true
 
 # Sidebar
 contact:
-  email: ej@h1energy.de
+  email: ecj@h1energy.de
   github: ecj
   linkedin: ecjenn
   phone: +49 151 1788 1971
@@ -48,7 +48,7 @@ skills:
 
 # Profile
 profile: |
-  Overall, my diverse background in management, business development, and finance 
+  My diverse background in management, business development, and finance 
   has equipped me with a unique skill set to drive growth, develop innovative solutions, 
   and contribute to the success of organizations. I thrive in dynamic environments 
   and enjoy collaborating with cross-functional teams to achieve strategic objectives.
@@ -59,16 +59,15 @@ experience:
     time: 2023-Present
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      A local energy collective deliverying thermal energy to 350 homes in Ahnsbeck, Lower Saxony
     technologies_used: | 
       
   - role: VP Strategy, Business & Product Development
     time: 2023-present
     company: Quest Materials (Lower Saxony, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Quest is designing the world’s first-of-a-kind, modular facility to recover Critical Raw Materials 
+      from e-waste and scale its technology with int'l JV partners
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
@@ -76,8 +75,7 @@ experience:
     time: 2019-2023
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      A local energy collective deliverying thermal energy to 350 homes in Ahnsbeck, Lower Saxony
     technologies_used: | 
       Go, Angular, Typescript, C++
   
@@ -94,8 +92,7 @@ experience:
     time: 2016-2020
     company: Fathym, Inc. (Colorado, USA)
     details: |
-     Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-     fugiat nulla pariatur.
+     Growth strategy consulting and venture development firm specializing in Smart Systems
     technologies_used: | 
       Go, Angular, Typescript, C++
   
