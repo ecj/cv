@@ -20,15 +20,6 @@
         </div>
     {% endif %}
 
-    {% if contact.github %}
-        <div class="contact-item">
-            <i data-feather="github"></i>
-            <a href="https://github.com/{{contact.github}}">
-                {{contact.github}}
-            </a>
-        </div>
-    {% endif %}
-
     {% if contact.linkedin %}
         <div class="contact-item">
             <i data-feather="linkedin"></i>
@@ -37,7 +28,7 @@
             </a>
         </div>
     {% endif %}
-
+    
     {% if contact.twitter %}
         <div class="contact-item">
             <i data-feather="twitter"></i>
@@ -46,12 +37,12 @@
             </a>
         </div>
     {% endif %}
-
-    {% if contact.gitlab %}
+    
+    {% if contact.github %}
         <div class="contact-item">
-            <i data-feather="gitlab"></i>
-            <a href="https://gitlab.com/{{contact.gitlab}}">
-                {{contact.gitlab}}
+            <i data-feather="github"></i>
+            <a href="https://github.com/{{contact.github}}">
+                {{contact.github}}
             </a>
         </div>
     {% endif %}
