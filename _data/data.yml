@@ -5,10 +5,10 @@ fork: true
 # Sidebar
 contact:
   email: ej@h1energy.de
-  github: github.com/ecj
-  linkedin: linkedin.com/in/ecjenn
+  github: ecj
+  linkedin: ecjenn
   phone: +49 151 1788 1971
-  twitter: twitter.com/ecj
+  twitter: ecj
 
 languages:
   - idiom: English
