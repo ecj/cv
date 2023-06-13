@@ -53,7 +53,7 @@ profile: |
 experience:
   
   - role: Supervisory Board
-    time: 2020-Present
+    time: 2023-Present
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -61,7 +61,7 @@ experience:
     technologies_used: | 
       
   - role: Role
-    time: 2016-2020
+    time: 2023-present
     company: Quest Materials (Lower Saxony, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -70,7 +70,7 @@ experience:
       Python, Tensorflow, Keras, Matlab
 
   - role: Role
-    time: 2020-Present
+    time: 2019-2023
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -79,7 +79,7 @@ experience:
       Go, Angular, Typescript, C++
   
   - role: Role
-    time: 2016-2020
+    time: 2020-2022
     company: Harbor Research (Colorado, USA)
     details: |
      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -88,7 +88,7 @@ experience:
       Python, Tensorflow, Keras, Matlab
   
   - role: Role
-    time: 2020-Present
+    time: 2016-2020
     company: Fathym, Inc. (Colorado, USA)
     details: |
      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -97,7 +97,7 @@ experience:
       Go, Angular, Typescript, C++
   
   - role: Role
-    time: 2016-2020
+    time: 2014-present
     company: Bourbon.fm (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -106,7 +106,7 @@ experience:
       Python, Tensorflow, Keras, Matlab
   
   - role: Role
-    time: 2020-Present
+    time: 2012-2914
     company: HealthXL (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -115,7 +115,7 @@ experience:
       Go, Angular, Typescript, C++
   
   - role: Role
-    time: 2016-2020
+    time: 2011-2014
     company: Startupbootcamp (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -124,7 +124,7 @@ experience:
       Python, Tensorflow, Keras, Matlab
   
   - role: Role
-    time: 2020-Present
+    time: 2009-2010
     company: Parklane Capital (Hamburg, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -133,16 +133,49 @@ experience:
       Go, Angular, Typescript, C++
   
   - role: Role
-    time: 2016-2020
-    company: New Work SE (formerly XING AG, Hamburg, Germany)
+    time: 2004-2009
+    company: New Work SE (frmly XING AG, Hamburg, Germany)
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
+  - role: Owner
+    time: 2003-2005
+    company: Management Consultant
+    details: |
+      Parklane Capital GmbH- Sell-side advisory mandate (Navigon to General Atlantic)
+      4G Systems GmbH & Co KG – business planning and capital increase
+      Open Business Club GmbH – business planning, capital increases
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
+      
+  - role: Associate, Mergers & Acquisitions
+    time: 2000-2003
+    company: Lincoln Intertional (frmly Peters Associates, Frankfurt, Germany)
+    details: |
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
+
+  - role: Executive, Corporate Finance & Investment Banking
+    time: 1999-2000
+    company: PricewaterhouseCoopers (Frankfurt, Germany)
+    details: |
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
+  
+   - role: Financial Analyst
+    time: 1996-1997
+    company: Credit Suisse First Boston (London, UK)
+    details: |
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
 
    
