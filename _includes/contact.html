@@ -46,5 +46,15 @@
             </a>
         </div>
     {% endif %}
+    
+    {% if contact.address %}
+        <div class="contact-item">
+            <i data-feather="address"></i>
+            <a href="#">
+                {{contact.address}}
+            </a>
+        </div>
+    {% endif %}
+    
 </section>
 {% endif %}
