@@ -18,9 +18,11 @@ education:
   - degree: BSc in Economics [2.2]
     time: 1992-1995
     university: London School of Economics
-  - degree: BSc in Economics [2.2]
-    time: 1992-1995
-    university: London School of Economics
+    
+  - degree: International Baccalaureate
+    time: 1989-1991
+    university: St Clares Oxford
+
 skills:
   - category: CRM
     skill: 
@@ -50,89 +52,89 @@ profile: |
 # Experience
 experience:
   
-  - role: Software Engineer
+  - role: Supervisory Board
     time: 2020-Present
-    company: Google
+    company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       
-  - role: Researcher
+  - role: Role
     time: 2016-2020
-    company: Microsoft
+    company: Quest Materials (Lower Saxony, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
 
-  - role: Software Engineer
+  - role: Role
     time: 2020-Present
-    company: Google
+    company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
+  - role: Role
     time: 2016-2020
-    company: Microsoft
+    company: Harbor Research (Colorado, USA)
     details: |
      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-  - role: Software Engineer
+  - role: Role
     time: 2020-Present
-    company: Google
+    company: Fathym, Inc. (Colorado, USA)
     details: |
      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
      fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
+  - role: Role
     time: 2016-2020
-    company: Microsoft
+    company: Bourbon.fm (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-  - role: Software Engineer
+  - role: Role
     time: 2020-Present
-    company: Google
+    company: HealthXL (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
+  - role: Role
     time: 2016-2020
-    company: Microsoft
+    company: Startupbootcamp (Dublin, Ireland)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
   
-  - role: Software Engineer
+  - role: Role
     time: 2020-Present
-    company: Google
+    company: Parklane Capital (Hamburg, Germany)
     details: |
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
       Go, Angular, Typescript, C++
   
-  - role: Researcher
+  - role: Role
     time: 2016-2020
-    company: Microsoft
+    company: New Work SE (formerly XING AG, Hamburg, Germany)
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
