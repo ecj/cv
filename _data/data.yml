@@ -6,10 +6,10 @@ fork: true
 contact:
   email: ecj@h1energy.de
   address: 29353 Ahnsbeck, Germany
-  github: ecj
-  linkedin: ecjenn
   phone: +49 151 1788 1971
+  linkedin: ecjenn
   twitter: ecj
+  github: ecj
 
 languages:
   - idiom: English, native speaker
