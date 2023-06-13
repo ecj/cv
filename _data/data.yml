@@ -44,7 +44,7 @@ profile: |
 
 # Experience
 experience:
-  - role: Member, Supervisory Board
+- role: Member, Supervisory Board
     time: 07/2023 - present
     company: Energiegenossenschaft Ahnsbeck
     details: |
