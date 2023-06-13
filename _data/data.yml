@@ -8,7 +8,6 @@ contact:
   github: github.com/ecj
   linkedin: linkedin.com/in/ecjenn
   phone: +49 151 1788 1971
-  gitlab: 
   twitter: twitter.com/ecj
 
 languages:
@@ -25,10 +24,14 @@ skills:
     skill: 
       - Hubspot
       - Salesforce
-  - category: Frontend
+  - category: Presentation
     skill:
-      - React
+      - PowerPoint
       - Typescript
+  - category: AI Assist
+    skill:
+      - LLM Prompt Expert
+      - Tome, Slides AI 
   - category: Frontend
     skill:
       - HTML Markdown
