@@ -58,23 +58,15 @@ profile: |
 # Experience
 experience:
   - role: Supervisory Board, Management Board
-    time: 2023-Present; 2019-2023
+    time: 07/2023-Present; 08/2019-06/2023
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
     details: |
       A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
     technologies_used: | 
-      ● Smart solutions
-  
-  - role: Management Board
-    time: 2019-2023
-    company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
-    details: |
-      A local energy collective deliverying thermal energy to 350 homes in Lower Saxony
-    technologies_used: | 
-      ● Research project
+      ● Smart solutions  ● Research project
   
   - role: VP Strategy, Business & Product Development
-    time: 2023-present
+    time: 01/2023-present
     company: Quest Materials (Lower Saxony, Germany)
     details: |
       Quest is designing the world’s first-of-a-kind, modular facility to recover Critical Raw Materials 
@@ -83,7 +75,7 @@ experience:
       ● State funding
 
   - role: VP Business Development 
-    time: 2020-2022
+    time: 10/2020-12/2022
     company: Harbor Research (Colorado, USA)
     details: |
      Growth strategy consulting and venture development firm specializing in Smart Systems
@@ -91,7 +83,7 @@ experience:
       ● Increased number of PROPOSALS 
   
   - role: VP Business Development & Strategic Product Development
-    time: 2016-2020
+    time: 09/2016-09/2020
     company: Fathym, Inc. (Colorado, USA)
     details: |
      Fathym IoT Ensemble is an out-of-the-box solution for connecting devices and 
@@ -101,7 +93,7 @@ experience:
       ● established process for PROPOSALS, terms of service etc.
   
   - role: Founder, Video Editor, Social Marketing
-    time: 2014-present
+    time: 09/2014-present
     company: Bourbon.fm (Dublin, Ireland)
     details: |
       A new media brand of content for musicians and serious music fans
@@ -112,7 +104,7 @@ experience:
       content technology, video production, content distribution & branded events
   
   - role: Co-Founder & Director
-    time: 2012-2914
+    time: 09/2012-09/2014
     company: HealthXL (Dublin, Ireland)
     details: |
       Accelerator & global network for startups in digital health
@@ -122,7 +114,7 @@ experience:
       ● Invested in 7 companies from US, Canada, Australia, Ireland, Finland & Ghana - one exit
   
   - role: Co-Founder & MD Dublin
-    time: 2011-2014
+    time: 01/2011-09/2014
     company: Startupbootcamp Dublin (Dublin, Ireland)
     details: |
       European-based, internationally focussed seed fund & accelerator programme based in Dublin
@@ -133,7 +125,7 @@ experience:
       ● Invested in 10 companies from US, Brazil, Poland, Romania, China, UK & Ireland – three exits
   
   - role: Managing Partner
-    time: 2009-2010
+    time: 10/2009-12/2010
     company: Parklane Capital (Hamburg, Germany)
     details: |
       M&A advisory, capital raising, external CFO services for high-growth technology companies
@@ -142,7 +134,7 @@ experience:
       ● Advised the founders of Amiando on their exit sale to XING AG
   
   - role: Chief Financial Officer, and prior VP Finance, Legal & HR
-    time: 2004-2009
+    time: 10/2006-09/2009
     company: New Work SE (frmly XING AG, Hamburg, Germany)
     details: |
       Consumer internet services, listed on Frankfurt stock exchange as FRA:O1BC
@@ -164,6 +156,32 @@ experience:
       ● Setup and led the Business Intelligence function to measure and monitor customer lifecycle statistics and key
       customer processes such as invitation, conversion and retention
 
+  - role: VP Finance, Legal & HR
+    time: 10/2004-09/2009
+    company: New Work SE (frmly XING AG, Hamburg, Germany)
+    details: |
+      Consumer internet services, listed on Frankfurt stock exchange as FRA:O1BC
+    technologies_used: | 
+      ● Led the preparation of monthly, quarterly and annual financial statements (HGB) as well as
+      the first-time adoption of international reporting standard (IFRS) and coordinated monthly
+      close process including international subsidiaries
+      ● In-sourced Finance function ( installing Navision as general ledger and managed migration
+      from legacy systems) and outsourced payroll management resulting in higher quality
+      reporting, increased ability to manage business and increased delivery of service
+      ● Designed and implemented policies for revenue recognition, cost capitalization, VAT
+      handling, cash management, expense accruals, collections & dunning inter alia
+      ● Introduced cost centre budgets as well as controls environment for international expense
+      approval, cost recognition and payment processing
+      ● Implemented daily and weekly KPI system for internal employees and external country
+      managers
+      ● Setup and led the Business Intelligence function including reporting & analysis, customer
+      analytics and database marketing allowing XING to measure and monitor statistics on
+      membership base, customer lifecycle and lifetime value, customer activity as well as key
+      customer processes such as invitation, conversion and retention
+      ● Setup legal and HR departments; led team through the introduction of a company-wide stock
+      option plan, the conversion from private limited company to public stock corporation and the
+      implementation of contract management / evergreen dataroom
+      
   - role: Owner
     time: 2003-2005
     company: Management Consultant
