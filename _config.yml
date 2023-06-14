@@ -13,3 +13,10 @@ plugins:
 
 exclude:
   - docker-compose.yml
+
+# _config.yml
+
+default_locale: en
+locales:
+  - en
+  - de
