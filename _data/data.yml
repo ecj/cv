@@ -31,7 +31,7 @@ skills:
       - Salesforce
   - category: Proposals/Presentations
     skill:
-      - PowerPoint, Slides, 
+      - PowerPoint, Google Slides, 
       - Proposify, Qwilr, Pandadoc
   - category: Financials/Offer Mgmt
     skill:
@@ -40,12 +40,12 @@ skills:
       - Microsoft Dynamics NAV 
   - category: Frontend
     skill:
-      - HTML Markdown
+      - HTML / Markdown
       - Static Site Builds
   - category: AI Assistance
     skill:
-      - LLM Prompt Expert
-      - Tome, Slides AI 
+      - LLM Prompting (ChatGPT)
+      - Tome.app, Slides AI 
 
 # Profile
 profile: |
