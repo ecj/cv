@@ -27,12 +27,13 @@ education:
 skills:
   - category: Pipeline & CRM
     skill: 
-      - Hubspot
-      - Salesforce
+      - Hubspot, Salesforce
+      - Attio, Pipedrive
   - category: Proposals/Presentations
     skill:
       - PowerPoint, Google Slides, 
       - Proposify, Qwilr, Pandadoc
+      - Canva, Webslides, Pitch.com
   - category: Financials/Offer Mgmt
     skill:
       - Excel, PowerBI
