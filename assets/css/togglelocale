@@ -1,0 +1,11 @@
+/* togglelocal.css */
+
+#language-toggle a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+#language-toggle a.active {
+    font-weight: bold;
+}
