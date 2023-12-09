@@ -48,6 +48,15 @@
         </div>
     {% endif %}
     
+    {% if contact.github %}
+        <div class="contact-item">
+            <i data-feather="pronounciation"></i>
+            <a href="https://github.com/{{contact.github}}">
+                {{contact.github}}
+            </a>
+        </div>
+    {% endif %}
+    
     {% if contact.address %}
         <div class="contact-item">
             <i data-feather="address"></i>
