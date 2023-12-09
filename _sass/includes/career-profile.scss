@@ -3,9 +3,9 @@
         @include header;
     }
     .company {
-            @include body-text;
-            font-weight: bold;
-            }
+        @include body-text;
+        font-weight: bold;
+    }
     .details {
         @include body-text;
     }
