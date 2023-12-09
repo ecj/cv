@@ -2,14 +2,7 @@
     .title {
         @include header;
     }
-        .headline {
-            @include body-text;
-            font-weight: bold;
-            }
-        .details {
-            @include body-text;
-        }
-        .technologies {
-            @include body-text;
-        }
+    .details {
+        @include body-text;
     }
+}
