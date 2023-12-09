@@ -1,9 +1,6 @@
 .career-profile {
     .title {
         @include header;
-    }
-    .company {
-        @include body-text;
         font-weight: bold;
     }
     .details {
