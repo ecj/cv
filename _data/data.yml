@@ -50,7 +50,7 @@ skills:
 
 # Profile
 profile: |
-  My diverse background in management, business development, and finance has equipped me with a unique combination of skills to drive top-line growth. I thrive in dynamic environments and enjoy collaborating with others to set targets, establish effective processes, develop innovative solutions, and increase company value.  I'm at my best when qualifying new leads, implementing scalable processes to win new business, designing proposals that hit the mark and closing deals with key accounts.
+  My diverse background in management, business development, and finance has equipped me with a unique combination of business development skills to drive top-line growth. I thrive in dynamic environments and enjoy collaborating with others to set targets, establish effective processes, develop innovative solutions, and increase company value.  I'm at my best when qualifying new leads, implementing scalable processes to win new business, designing proposals that hit the mark and closing deals with key accounts.
 
 # Experience
 experience:
@@ -63,17 +63,27 @@ experience:
       ● Smart solutions  
       ● Research project 
   
-  - role: VP Finance, Business Development (Interim)
-    time: Jan 2023 - present
+  - role: Interim CFO, VP Business Development
+    time: Aug 2023 - present
     company: BIONSECT (Sternberg, Germany)
     details: |
-      BIONSECT transforms low-cost byproducts from food industry into high-grade protein for aquaculture and house pets
+      BIONSECT's waste-to-X technology transforms low-cost food industry byproducts into energy and high-grade protein additives for aquaculture and animal feed
     technologies_used: | 
       ● building technology team
       ● established contact for research, drafted and submitted subsidy applications
       ● created integrated financial model, investor pitch, sales pitch
 
-  - role: VP Business Development (Interim)
+  - role: Interim CFO, VP Business Development
+    time: Jan 2023 - present
+    company: Quest Elements (Uelzen, Germany)
+    details: |
+      Designing and building the world's first-of-a-kind, modular facility to recover strategically critical metals from electronic waste
+    technologies_used: | 
+      ● building technology team
+      ● established contact for research, drafted and submitted subsidy applications
+      ● created integrated financial model, investor pitch, sales pitch
+
+  - role: Interim VP Business Development, Strategy Consultant
     time: Oct 2020 - Dec 2022
     company: Harbor Research (Colorado, USA)
     details: |
@@ -83,7 +93,7 @@ experience:
       ● established process for PROPOSALS, terms of service etc.
       ● WON $750,000 new busiensss of which $360,000 was for competitive RFP processes 
       
-  - role: VP Business Development & Strategic Product Development
+  - role: Interim VP Business Development & Strategic Product Development
     time: Sep 2016 - Sep 2020
     company: Fathym, Inc. (Colorado, USA)
     details: |
