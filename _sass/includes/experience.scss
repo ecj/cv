@@ -20,6 +20,7 @@
         }
         .achievements {
             @include body-text;
+            font-weight: italic;
         }
     }
 }
