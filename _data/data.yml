@@ -8,7 +8,6 @@ contact:
   github: ecj
   linkedin: ecjenn
   phone: +49 151 1788 1971
-  gitlab: ecj
   twitter: ecj
 
 languages:
@@ -26,28 +25,18 @@ education:
     university: St Clares College, Oxford
 
 skills:
-  - category: Pipeline & CRM
+  - category: Backend
     skill: 
-      - Hubspot, Salesforce
-      - Attio, Pipedrive
-  - category: Proposals/Presentations
-    skill:
-      - PowerPoint, Google Slides, 
-      - Proposify, Qwilr, Pandadoc
-      - Canva, Webslides, Pitch.com
-  - category: Financials/Offer Mgmt
-    skill:
-      - Excel, PowerBI
-      - Airtable, Tableau
-      - Microsoft Dynamics NAV 
+      - Go
+      - Rust
   - category: Frontend
     skill:
-      - HTML / Markdown
-      - Static Site Builds
-  - category: AI Assistance
+      - React
+      - Typescript
+  - category: DevOps
     skill:
-      - LLM Prompting (ChatGPT)
-      - Midjourney, MS Designer
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
