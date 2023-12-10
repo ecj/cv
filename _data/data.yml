@@ -1,4 +1,4 @@
-name: John Doe
+name: Eoghan Jennings
 support_dark_mode: true
 fork: true
 
@@ -12,9 +12,9 @@ contact:
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: English, native speaker
+  - idiom: German, spoken/written fluency
+  - idiom: French, basic comprehension
 
 education:
   - degree: MSc in Informatics
