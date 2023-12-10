@@ -1,4 +1,4 @@
-.experiance {
+.experience {
     .title {
         @include header;
     }
@@ -7,8 +7,8 @@
             @include sub-header;
         }
         .company {
-        @include body-text;
-        font-weight: bold;
+            @include body-text;
+            font-weight: bold;
             .time {
                 float: right;
                 color: var(--fg-color-title-sm);
@@ -16,10 +16,10 @@
             }
         }
         .details {
-        @include body-text;
+            @include body-text;
         }
         .achievements {
-        @include body-text;
+            @include body-text;
         }
     }
 }
