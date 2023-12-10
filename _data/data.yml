@@ -6,10 +6,10 @@ fork: true
 contact:
   email: ej@h1energy.de
   phone: +49 151 1788 1971
-  linkedin: ecjenn
-  github: ecj
-  twitter: ecj
   youtube: channel/UCsvXgWabIs_Kuu3qJhj18lA
+  linkedin: ecjenn
+  twitter: ecj
+  github: ecj
 
 languages:
   - idiom: English, native speaker
@@ -24,7 +24,7 @@ education:
   - degree: International Baccalaureate
     time: 1989-1991
     university: St Clares College, Oxford
-
+    
 skills:
   - category: Backend
     skill: 
@@ -38,7 +38,7 @@ skills:
     skill:
       - Docker
       - Kubernetes 
-
+      
 # Profile
 profile: |
   Championing Independent Energy, Sustainable Agriculture & Building Automation | Waste-to-X | 
@@ -67,7 +67,7 @@ experience:
     time: Aug 2023 - present
     company: BIONSECT (Sternberg, Germany)
     details: |
-      BIONSECT's waste-to-X technology transforms low-cost food industry byproducts into energy and 
+      Waste-to-X technology that transforms low-cost food industry byproducts into electrical/thermal energy as well as 
       high-grade protein additives for aquaculture and animal feed
 
     technologies_used: | 
@@ -91,12 +91,13 @@ experience:
     time: Oct 2020 - Dec 2022
     company: Harbor Research (Colorado, USA)
     details: |
-     Growth strategy consulting and venture development firm specializing in Smart Systems
+     Growth strategy consulting and venture development firm specializing in digitalization projects especially in connection with building/factory automation, AI/ML applications, Industrie4.0 and Digital Twins
     
     technologies_used: | 
+      ● Redesigned and implemented processes for business develoment and sales, incl. client proposal delivery and new terms of service 
       ● Drafted proposals and coordinated responses to RFIs/RFPs
-      ● established process for PROPOSALS, terms of service etc.
-      ● WON $750,000 new busiensss of which $360,000 was for competitive RFP processes 
+      ● approached, acquired and onboarded over a dozen new clients including 1 Fortune 100 and 1 DAX 10 company 
+      ● Won $750,000 new busiensss of which $360,000 was for competitive RFP processes 
       
   - role: Interim VP Business Development & Strategic Product Development
     time: Sep 2016 - Sep 2020
