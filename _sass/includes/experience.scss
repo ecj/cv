@@ -1,20 +1,25 @@
-{% assign experience = site.data.data.experience %}
-{% if experience %}
-<section class="experiance">
-    <h2 class="title">Experience</h2>
-    {% for exp in experience %}
-        <div class="experience-item">
-            <div class="role">
-                {{exp.role}}
-            </div>
-            <div class="company">
-                {{exp.company}} 
-                <span class="time">{{exp.time}}</span>
-            </div> 
-            <div class="details">{{exp.details}}</div>
-            <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
-        </div>
-       
-    {% endfor %}
-</section>
-{% endif %}
+.experiance {
+    .title {
+        @include header;
+    }
+    .experience-item {
+        .role {
+            @include sub-header;
+        }
+        .company {
+            @include body-text;
+            font-weight: bold;
+            .time {
+                float: right;
+                color: var(--fg-color-title-sm);
+                font-weight: 100;
+            }
+        }
+        .details {
+            @include body-text;
+        }
+        .technologies {
+            @include body-text;
+        }
+    }
+}
