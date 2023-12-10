@@ -1,52 +1,43 @@
-name: Eoghan Jennings
+name: John Doe
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: ej@h1energy.de
-  github: ecj
-  linkedin: ecjenn
-  phone: +49 151 1788 1971
-  twitter: ecj
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
+  gitlab: 
+  twitter: 
 
 languages:
-  - idiom: English, native speaker
-  - idiom: German, spoken/written fluency
-  - idiom: French, basic comprehension
+  - idiom: English
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: BSc (Hons) Economics (2.2)
-    time: 1992-1995
-    university: London School of Economics
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
 
-  - degree: International Baccalaureate
-    time: 1989-1991
-    university: St Clares College, Oxford
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
-- category: Pipeline & CRM
+  - category: Backend
     skill: 
-      - Hubspot, Salesforce
-      - Attio, Pipedrive
-  - category: Proposals/Presentations
-    skill:
-      - PowerPoint, Google Slides, 
-      - Proposify, Qwilr, Pandadoc
-      - Canva, Webslides, Pitch.com
-  - category: Financials/Offer Mgmt
-    skill:
-      - Excel, PowerBI
-      - Airtable, Tableau
-      - Microsoft Dynamics NAV 
+      - Go
+      - Rust
   - category: Frontend
     skill:
-      - HTML / Markdown
-      - Static Site Builds
-  - category: AI Assistance
+      - React
+      - Typescript
+  - category: DevOps
     skill:
-      - LLM Prompting (ChatGPT)
-      - Midjourney, MS Designer
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
