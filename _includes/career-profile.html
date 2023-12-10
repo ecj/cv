@@ -1,15 +1,7 @@
 {% assign profile = site.data.data.profile %}
-{% if experience %}
-<section class="profile">
+{% if profile %}
+<section class="career-profile">
     <h2 class="title">Career Profile</h2>
-    {% for pro in profile %}
-        <div class="profile-item">
-            <div class="profile-title">
-                {{pro.profile-title}}
-            </div>
-            <div class="details">{{pro.details}}</div>
-        </div>
-       
-    {% endfor %}
+    <div class="details">{{profile}}</div>
 </section>
 {% endif %}
