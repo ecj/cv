@@ -2,6 +2,11 @@
 {% if profile %}
 <section class="career-profile">
     <h2 class="title">Interim-Fractional CFO/CSO/CEO</h2>
-    <div class="details">{{profile}}</div>
+     {% for pro in profile %}
+        <div class="profile-item">
+            <div class="blurb">{{pro.blurb}}
+            </div>
+            <div class="details">{{pro.details}}</div>
+        </div>
 </section>
 {% endif %}
