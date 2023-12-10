@@ -4,6 +4,7 @@ fork: true
 
 # Sidebar
 contact:
+  address: Rhienende 5, 28353 Ahnsbeck
   email: ej@h1energy.de
   phone: +49 151 1788 1971
   linkedin: ecjenn
@@ -29,7 +30,8 @@ education:
 skills:
   - category: Pipeline & CRM
     skill: 
-      - ● Hubspot ● Salesforce ● Attio ● Pipedrive
+      - Hubspot, Salesforce
+      - Attio, Pipedrive
   - category: Proposals/Presentations
     skill:
       - PowerPoint, Google Slides, 
