@@ -6,10 +6,12 @@ fork: true
 contact:
   email: ej@h1energy.de
   phone: +49 151 1788 1971
-  youtube: channel/UCsvXgWabIs_Kuu3qJhj18lA
   linkedin: ecjenn
   twitter: ecj
   github: ecj
+
+pronounciation:
+  youtube: channel/UCsvXgWabIs_Kuu3qJhj18lA
 
 languages:
   - idiom: English, native speaker
