@@ -28,18 +28,28 @@ education:
     university: St Clares College, Oxford
     
 skills:
-  - category: Backend
+  - category: Pipeline & CRM
     skill: 
-      - Go
-      - Rust
+      - Hubspot, Salesforce
+      - Attio, Pipedrive
+  - category: Proposals/Presentations
+    skill:
+      - PowerPoint, Google Slides, 
+      - Proposify, Qwilr, Pandadoc
+      - Canva, Webslides, Pitch.com
+  - category: Financials/Offer Mgmt
+    skill:
+      - Excel, PowerBI
+      - Airtable, Tableau
+      - Microsoft Dynamics NAV 
   - category: Frontend
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - HTML / Markdown
+      - Static Site Builds
+  - category: AI Assistance
     skill:
-      - Docker
-      - Kubernetes 
+      - LLM Prompting (ChatGPT)
+      - Midjourney, MS Designer
       
 # Profile
 profile: |
