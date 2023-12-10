@@ -50,11 +50,8 @@ skills:
 
 # Profile
 profile:
-   Championing Independent Energy, Sustainable Agriculture & Building Automation | Waste-to-X | District Heating | Biogas | BioChar | Carbon Removal. 
-   My diverse background in management, business development, and finance has equipped me with a unique combination of business development skills to drive top-line growth. I thrive in dynamic environments and enjoy building collaborative teams, designing and achieving OKRs, establishing effective processes, developing innovative solutions, and increasing company value.  I'm at my best when building teams, qualifying new leads, implementing scalable processes to win new business, and designing proposals that hit the mark and close deals with key accounts.
- - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
+  - title: Championing Independent Energy, Sustainable Agriculture & Building Automation | Waste-to-X | District Heating | Biogas | BioChar | Carbon Removal. 
+    authors: My diverse background in management, business development, and finance has equipped me with a unique combination of business development skills to drive top-line growth. I thrive in dynamic environments and enjoy building collaborative teams, designing and achieving OKRs, establishing effective processes, developing innovative solutions, and increasing company value.  I'm at my best when building teams, qualifying new leads, implementing scalable processes to win new business, and designing proposals that hit the mark and close deals with key accounts.
     conference: Some conference, 2016
 
 # Experience
