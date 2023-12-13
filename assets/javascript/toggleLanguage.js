@@ -1,7 +1,7 @@
 function changeLanguage() {
     alert("hallo von changeLanguage");
 }
-    
+  alert("Diese alert wird aufgerufen");  
 // Assuming you have a button with id="language-toggle" for language switching
 var languageToggle = document.getElementById('language-toggle');
 
