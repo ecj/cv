@@ -1,6 +1,6 @@
 // Assuming you have a button with id="language-toggle" for language switching
 var languageToggle = document.getElementById('language-toggle');
-alert("languageToggle " + languageToggle);
+
 languageToggle.addEventListener('click', function() {
     // Get the current language setting or flag
     var currentLanguage = document.documentElement.getAttribute('lang');
