@@ -5,6 +5,13 @@ layout: default
   {% include header.html %}
   <div class="container-block">
     <div class="sidebar">
+      <script>
+  if(lang==="de") {
+    alert("Sprache deutsch");
+  } else {
+    alert("Sprache englisch");
+  }
+      </script>
       {% include contact.html %}
       {% include pronounce.html %}
       {% include languages.html %}
