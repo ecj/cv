@@ -1,27 +1,22 @@
-function changeLanguage() {
-    alert("hallo von changeLanguage");
-}
-  alert("Diese alert wird aufgerufen");  
 // Assuming you have a button with id="language-toggle" for language switching
 var languageToggle = document.getElementById('language-toggle');
 
 languageToggle.addEventListener('click', function() {
     // Get the current language setting or flag
     var currentLanguage = document.documentElement.getAttribute('lang');
-
+    
     // Check the current language and toggle to the other language
     if (currentLanguage === 'de') {
         // If current language is German, switch to English
         switchLanguage('en');
-      alert("sprache englisch");
     } else {
         // If current language is English or other, switch to German
         switchLanguage('de');
-      alert("sprache deutsch");
     }
 });
 
 function switchLanguage(lang) {
+    alert("Sprache: " + lang);
     // Fetch language-specific content from your Jekyll files
     // Replace this with your logic to load content based on the chosen language
     // For example, if you have separate files for German and English content
