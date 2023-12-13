@@ -1,6 +1,10 @@
+function changeLanguage() {
+    alert("hallo von changeLanguage");
+}
+    
 // Assuming you have a button with id="language-toggle" for language switching
 var languageToggle = document.getElementById('language-toggle');
-alert("hallo datei eingebunden");
+
 languageToggle.addEventListener('click', function() {
     // Get the current language setting or flag
     var currentLanguage = document.documentElement.getAttribute('lang');
