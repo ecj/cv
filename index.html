@@ -1,18 +1,11 @@
 ---
 layout: default
 ---
-<script src="{{'/assets/javascript/toggleLanguage.js' | absolute_url}}"></script>
+<!--<script src="{{'/assets/javascript/toggleLanguage.js' | absolute_url}}"></script>-->
 <div class="container">
   {% include header.html %}
   <div class="container-block">
     <div class="sidebar">
-      <script>
-  if(lang==="de") {
-    alert("Sprache deutsch");
-  } else {
-    alert("Sprache englisch");
-  }
-      </script>
       {% include contact.html %}
       {% include pronounce.html %}
       {% include languages.html %}
