@@ -5,6 +5,14 @@
       <label for="switch"><i id="moon" data-feather="moon" fill="var(--fg-color)"></i></label>
     {%endif%}
     <div id="language-toggle" onclick="changeLanguage()">change language</div>
+
+<script>
+// Definiere die Funktion im globalen Kontext
+function changeLanguage() {
+    alert("Hallo von changeLanguage");
+}
+</script>
+
   </div>
   <style>
 #language-toggle {
@@ -19,9 +27,4 @@
     background-color: black;
 }
 </style>
-<script>
-function changeLanguage() {
-    alert("hallo von changeLanguage");
-}
-    
-</script>
+
