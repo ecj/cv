@@ -31,7 +31,7 @@ skills:
   - category: Pipeline & CRM
     skill: 
       - Hubspot, Salesforce
-      - Attio, Pipedrive
+      - Attio, Pipedrive, Odoo
   - category: Proposals/Presentations
     skill:
       - PowerPoint, Google Slides, 
@@ -41,15 +41,17 @@ skills:
     skill:
       - Excel, PowerBI
       - Airtable, Tableau
-      - Microsoft Dynamics NAV 
+      - Microsoft Dynamics, Odoo
+      - Odoo, DATEV 
   - category: Frontend
     skill:
       - HTML / Markdown
       - Static Site Builds
   - category: AI Assistance
     skill:
-      - LLM Prompting (ChatGPT)
-      - Midjourney, MS Designer
+      - ChatGPT, Copilot
+      - Midjourney, LetsEnhance
+      - Udio
       
 # Profile
 profile: |
