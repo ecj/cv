@@ -26,6 +26,10 @@ education:
   - degree: International Baccalaureate
     time: 1989-1991
     university: St Clares College, Oxford
+
+  - degree: High School Diploma
+    time: 1985-1989
+    university: Niskayuna High School, New York
     
 skills:
   - category: Pipeline & CRM
