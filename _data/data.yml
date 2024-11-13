@@ -64,6 +64,26 @@ profile: |
 
 # Experience
 experience:
+  - role: Director (Geschäftsführer)
+    time: Aug 2024 - Present
+    company: Senic (Vertriebsgesellschaft mbH in Oldenburg, Germany)
+    details: |
+      Senic designs, manufactures and distributes smart home products in close partnerships with market leaders such as Sonos and GIRA. effects. The team has been awarded multiple pantents and received the prestigious recipient awarded the Red Dot and German Design Prize in 2016, 2021 and 2023.
+
+    technologies_used: | 
+      ● point...  
+      ● point...
+      
+  - role: Director (Geschäftsführer)
+    time: Jan 2024 - Present
+    company: MoodBlocks (GmbH in Oldenburg, Germany)
+    details: |
+      An award-winning media company that designs and markets a new proprietary hybrid digital-physical media  that securely links audio and video content to artistically-printed smart cards
+
+    technologies_used: | 
+      ● point...
+      ● point...
+
   - role: Supervisory Board; Management Board
     time: 2023-Present; 2019-2023
     company: Energiegenossenschaft Ahnsbeck (Lower Saxony, Germany)
@@ -75,36 +95,6 @@ experience:
       ● Acquired 10% new customers in 2023 without incurring any acquisition costs by activating additional KfW subsdidies  
       ● Managed research project to integrate an ORC Rankine process with a biomass boiler to generate electricity from thermal energy  
       
-  - role: Director (Geschäftsführer)
-    time: Aug 2024 - Present
-    company: Senic Vertriebsgesellschaft mbH (Oldenburg, Germany)
-    details: |
-      Senic designs, manufactures and distributes smart home products in close partnerships with market leaders such as Sonos and GIRA. effects. The team has been awarded multiple pantents and received the prestigious recipient awarded the Red Dot and German Design Prize in 2016, 2021 and 2023.
-
-    technologies_used: | 
-      ● point...  
-      ● point...  
-  
-    - role: Director (Geschäftsführer)
-    time: Aug 2024 - Present
-    company: Senic Vertriebsgesellschaft mbH (Oldenburg, Germany)
-    details: |
-      Senic designs, manufactures and distributes smart home products in close partnerships with market leaders such as Sonos and GIRA. effects. The team has been awarded multiple pantents and received the prestigious recipient awarded the Red Dot and German Design Prize in 2016, 2021 and 2023.
-
-    technologies_used: | 
-      ● point...  
-      ● point...  
-      
-  - role: Director (Geschäftsführer)
-    time: Jan 2024 - Present
-    company: MoodBlocks GmbH (Oldenburg, Germany)
-    details: |
-      An award-winning media company that designs and markets a new proprietary hybrid digital-physical media  that securely links audio and video content to artistically-printed smart cards
-
-    technologies_used: | 
-      ● point...
-      ● point...
-
   - role: Interim CFO, Strategic Product Development
     time: Jan 2023 - Jul 2023
     company: Quest Elements (Uelzen, Germany)
